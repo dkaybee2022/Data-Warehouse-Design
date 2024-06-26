@@ -2,6 +2,8 @@
 ### Tools Used
 ### MySQL, Microsoft Word 
 
+[View File](https://github.com/dkaybee2022/Data-Warehouse-Design/blob/main/UPDATED_729_Data%20Warehouse_%20Project.pdf)
+
 ## Introduction
 West Lake Elementary is experiencing challenges with data management for its 225 students due to errors and inconsistencies in student profiles. This project addresses these issues by implementing look-up tables to enhance data accuracy and consistency.
 
